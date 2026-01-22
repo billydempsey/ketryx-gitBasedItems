@@ -6,6 +6,4 @@ Requirement type: Design input
 Context: Clinical
 ---
 
-### Description
-
 The system shall calculate a medication dose based on patient weight and a configured dose-per-kg value.
